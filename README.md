@@ -1,5 +1,7 @@
 # ShipSaaS
 
+![ShipSaaS](https://github.com/CyberClarence/shipsaas/blob/main/capture.png)
+
 ShipSaaS is a starter kit for building a SaaS application using Next.js, Drizzle, and Stripe . It provides a robust foundation for your SaaS product, including authentication, database management, and integration with Stripe for payments.
 
 ## Quick Links
